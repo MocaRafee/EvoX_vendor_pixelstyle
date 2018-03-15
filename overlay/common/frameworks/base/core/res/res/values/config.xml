@@ -44,4 +44,9 @@
     <dimen name="config_buttonCornerRadius">4.0dip</dimen>
     <dimen name="config_progressBarCornerRadius">1000.0dip</dimen>
 
+    <!-- System font packages (overlay in vendor) -->
+    <string-array name="config_fontPackages" translatable="false">
+        <item>com.evolution.fonts</item>
+    </string-array>
+
 </resources>
