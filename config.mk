@@ -23,6 +23,7 @@ PRODUCT_PACKAGES += \
     EvoXFonts \
     EvoXPapers \
     NexusWallpapersStubPrebuilt2018 \
+    SubstratumSignature \
     WeatherClient
 
 ifeq ($(TARGET_GAPPS_ARCH),arm64)
