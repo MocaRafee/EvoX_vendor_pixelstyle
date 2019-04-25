@@ -20,6 +20,7 @@ PRODUCT_PACKAGES += \
     NexusLauncherPrebuilt \
     WellbeingPrebuilt \
     MarkupGoogle \
+    EvoXPapers \
     NexusWallpapersStubPrebuilt2018 \
     WeatherClient
 
