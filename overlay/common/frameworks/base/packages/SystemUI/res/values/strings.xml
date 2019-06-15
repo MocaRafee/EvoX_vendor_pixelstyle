@@ -15,10 +15,6 @@
 -->
 
 <resources>
-    <dimen name="search_bar_corner_radius">8.0dip</dimen>
-    <dimen name="search_bar_height">48.0dip</dimen>
-    <dimen name="search_bar_margin">8.0dip</dimen>
-    <dimen name="search_bar_negative_margin">-8.0dip</dimen>
-    <dimen name="search_bar_text_size">16.0dip</dimen>
-    <dimen name="suggestion_card_corner_radius">8.0dip</dimen>
+    <!-- The text for the manage notifications link. [CHAR LIMIT=40] -->
+    <string name="manage_notifications_text">Manage</string>
 </resources>
