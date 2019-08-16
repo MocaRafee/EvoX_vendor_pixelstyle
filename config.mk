@@ -22,7 +22,14 @@ PRODUCT_PACKAGES += \
     EvoXFonts \
     EvoXPapers \
     SubstratumSignature \
-    WeatherClient
+    WeatherClient \
+    GContacts \
+    GCalculator \
+    GDeskClock \
+    GDialer \
+    GMessaging \
+    GalleryGo \
+    GCalendar
 
 
 TARGET_MINIMAL_APPS ?= false
