@@ -17,19 +17,13 @@
 PRODUCT_PACKAGES += \
     SoundPickerPrebuilt \
     WallpaperPickerGooglePrebuilt \
-    NexusLauncherPrebuilt \
     WellbeingPrebuilt \
     MarkupGoogle \
     EvoXFonts \
     EvoXPapers \
-    NexusWallpapersStubPrebuilt2018 \
     SubstratumSignature \
     WeatherClient
 
-ifeq ($(TARGET_GAPPS_ARCH),arm64)
-PRODUCT_PACKAGES += \
-    MatchmakerPrebuilt
-endif
 
 TARGET_MINIMAL_APPS ?= false
 
